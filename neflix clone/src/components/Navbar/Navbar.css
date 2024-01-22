@@ -1,0 +1,28 @@
+.navbar{
+    position: fixed;
+    top:0;
+    height: 60px;
+    background-image: linear-gradient(rgb(0, 0, 0, 1),rgba(0,0,0,0));
+    right: 0;
+    left: 0;
+    color: white;
+}
+
+.nav-active{
+    color:  white !important;
+}
+
+.nav-items{
+    font-size: 13px !important;
+    @apply ml-5 font-semibold mt-2 text-gray-200
+
+}
+
+.logo{
+    height: 25px;
+}
+
+.avatar{
+    height: 25px;
+
+}

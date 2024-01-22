@@ -1,0 +1,32 @@
+
+
+.banner{
+    height: 600px;
+    background-image: url("/avengers.jpg");
+    background-size: cover;
+    color: white;
+    vertical-align: middle;
+    display: flex;    
+    align-items: flex-end;
+
+}
+.content{
+    margin-left: 60px;
+}
+.more{
+    margin-top: 3px;
+}
+
+.lower-gradient{
+    margin-top: 50px;
+    background-image: linear-gradient(transparent, black);
+    height: 40px;
+    width: 100%;
+}
+
+
+.description{
+    max-width: 50%;
+    margin-bottom: 50px;
+    
+}

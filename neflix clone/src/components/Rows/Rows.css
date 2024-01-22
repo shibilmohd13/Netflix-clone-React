@@ -1,0 +1,16 @@
+.row{
+    background-color: black;
+    color: white;
+}
+
+.movies{
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+.small-mov:hover{
+    filter: brightness(0.3);
+}
+.movies::-webkit-scrollbar {
+    display: none;
+  }
+  
